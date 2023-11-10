@@ -1,4 +1,5 @@
 # Data Science/Machine Learning Engineer
+![IMG-7730](https://github.com/vennisabarfi/vennisabarfi/assets/122574563/babef36b-f7db-4105-93b0-a9ce3bc9dc69)
 
 ### Skills
 - **Tools and Languages**: Python, Git, MySQL, LATEX, ClickUp, Jira, Tableau, NumPy, TensorFlow

@@ -2,7 +2,7 @@
 
 ### Skills
 - **Tools and Languages**: Python, Git, MySQL, LATEX, ClickUp, Jira, Tableau, NumPy, TensorFlow
-- **Coursera Certifications**: Neural Networks and Deep Learning, Sequence Models
+- **Coursera Certifications**: Neural Networks and Deep Learning, Sequence Models, Structuring Machine Learning Projects, Convolutional Neural Networks
 - **Communication**: English, French, Spanish, Akan(Twi)
 
 ### Work Experience
@@ -26,6 +26,8 @@ Computational Chemistry Research Intern @ Calvin University (May 2021 - November
 
 ### Education 
 Bachelor of Science in Physics, alvin University (Jan 2020 - April 2023)
+- Dean's List (All Semesters)
+- Graduated Cum Laude (3.8 GPA)
 - Highlighted Courses: Linear Algebra, Python, Tableau
 
 Deep Learning Specialization - Coursera  (2023)

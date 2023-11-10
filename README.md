@@ -1,9 +1,9 @@
 # Data Science/Machine Learning Engineer
 
 ### Skills
-**Tools and Languages**: Python, Git, MySQL, LATEX, ClickUp, Jira, Tableau, NumPy, TensorFlow
-**Coursera Certifications**: Neural Networks and Deep Learning, Sequence Models
-**Communication**: English, French, Spanish, Akan(Twi)
+- **Tools and Languages**: Python, Git, MySQL, LATEX, ClickUp, Jira, Tableau, NumPy, TensorFlow
+- **Coursera Certifications**: Neural Networks and Deep Learning, Sequence Models
+- **Communication**: English, French, Spanish, Akan(Twi)
 
 ### Work Experience
 Technical Project Manager @NKENNE (August 2022 - Present)

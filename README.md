@@ -16,7 +16,7 @@ Curated and processed password data with pandas, NumPy, and NLP libraries (NLTK,
 - Implemented a user-friendly command-line interface for real-time strength analysis.
 - Documented NLP techniques, model implementation, and results for knowledge transfer.
 
-  **3. Random Name and Character Generator (Python)****
+**3. Random Name and Character Generator (Python)****
 - Developed a Python-based Random Name and Character Generator.
 - Leveraged Python's standard libraries for efficient randomization and string manipulation.
 - Engineered a user-friendly command-line interface for customization.
@@ -52,16 +52,14 @@ Bachelor of Science in Physics, Calvin University (Jan 2020 - April 2023)
 - Graduated Cum Laude (3.8 GPA)
 - **Highlighted Courses: Advanced Linear Algebra, Python, Tableau**
 
-Deep Learning Specialization - Coursera (2023)
+**Deep Learning Specialization - Coursera (2023)**
 - Neural Networks and Deep Learning
 - Structuring Machine Learning Projects
 - Convolutional Neural Networks
 - Sequence Models
 
-### Activities 
+### Presentations and Talks
 - Presented at Gorham Savings Bank, LaunchPad Pitch Competition (50,000 USD Prize), Maine (October 2023)
-
 - Summer Research Fair, Calvin University, Grand Rapids, Michigan (September 2022)
-
 - Summer Research Fair, Calvin University, Grand Rapids, Michigan (September 2021)
 

@@ -8,6 +8,7 @@
 - Implemented Logistic Regression, utilizing NumPy and scikit-learn, with fine-tuned hyperparameters for optimal performance.
 - Implemented a feature allowing users to input image files for dynamic model testing and evaluation.
 - Utilized Matplotlib in Jupyter Notebook for insightful visualizations, providing a comprehensive overview of model performance and data   characteristics.
+
 **2. Password Strength Checker (NLP Model)**
 - Developed a Password Strength Checker using NLP and machine learning.
 Curated and processed password data with pandas, NumPy, and NLP libraries (NLTK, SpaCy).
@@ -15,6 +16,7 @@ Curated and processed password data with pandas, NumPy, and NLP libraries (NLTK,
 - Used TfidfVectorizer for feature representation and a Random Forest Classifier for classification.
 - Implemented a user-friendly command-line interface for real-time strength analysis.
 - Documented NLP techniques, model implementation, and results for knowledge transfer.
+
   **3. Random Name and Character Generator (Python)****
 - Developed a Python-based Random Name and Character Generator.
 - Leveraged Python's standard libraries for efficient randomization and string manipulation.

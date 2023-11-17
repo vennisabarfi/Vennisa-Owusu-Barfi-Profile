@@ -1,5 +1,4 @@
 # Data Science/Machine Learning Engineer
-![IMG-7730](https://github.com/vennisabarfi/vennisabarfi/assets/122574563/babef36b-f7db-4105-93b0-a9ce3bc9dc69)
 
 ### Highlighted Projects (Please see my GitHub Profile for more projects) ###
 **1. Image Classification Model (Logistic Regression Algorithm)**

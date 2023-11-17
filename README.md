@@ -1,4 +1,4 @@
-# Data Science/Machine Learning Engineer
+# Vennisa Owusu-Barfi: Data Science/Machine Learning Engineer
 
 ### Highlighted Projects (Please see my GitHub Profile for more projects) ###
 **1. Image Classification Model (Logistic Regression Algorithm)**

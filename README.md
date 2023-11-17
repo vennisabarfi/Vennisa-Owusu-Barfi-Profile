@@ -1,6 +1,26 @@
 # Data Science/Machine Learning Engineer
 ![IMG-7730](https://github.com/vennisabarfi/vennisabarfi/assets/122574563/babef36b-f7db-4105-93b0-a9ce3bc9dc69)
 
+### Highlighted Projects (Please see my GitHub Profile for more projects) ###
+**1. Image Classification Model (Logistic Regression Algorithm)**
+- Led an independent project developing an image classifier using Logistic Regression, implemented with Python and scikit-learn.
+- Curated and preprocessed a dataset of 1,000 images for training and testing.
+- Implemented Logistic Regression, utilizing NumPy and scikit-learn, with fine-tuned hyperparameters for optimal performance.
+- Implemented a feature allowing users to input image files for dynamic model testing and evaluation.
+- Utilized Matplotlib in Jupyter Notebook for insightful visualizations, providing a comprehensive overview of model performance and data   characteristics.
+**2. Password Strength Checker (NLP Model)**
+- Developed a Password Strength Checker using NLP and machine learning.
+Curated and processed password data with pandas, NumPy, and NLP libraries (NLTK, SpaCy).
+- Engineered features to capture semantic meaning, enhancing accuracy.
+- Used TfidfVectorizer for feature representation and a Random Forest Classifier for classification.
+- Implemented a user-friendly command-line interface for real-time strength analysis.
+- Documented NLP techniques, model implementation, and results for knowledge transfer.
+  **3. Random Name and Character Generator (Python)****
+- Developed a Python-based Random Name and Character Generator.
+- Leveraged Python's standard libraries for efficient randomization and string manipulation.
+- Engineered a user-friendly command-line interface for customization.
+- Extended functionality to include random character traits and attributes.
+
 ### Skills
 - **Tools and Languages**: Python, Git, MySQL, LATEX, ClickUp, Jira, Tableau, NumPy, TensorFlow
 - **Coursera Certifications**: Neural Networks and Deep Learning, Sequence Models, Structuring Machine Learning Projects, Convolutional Neural Networks
@@ -23,7 +43,7 @@
 - Gained experience using Excel and Python to model complex atomic behavior.
 - Presented Results at Poster Fair.
 
-### Projects 
+
 
 ### Education 
 Bachelor of Science in Physics, Calvin University (Jan 2020 - April 2023)

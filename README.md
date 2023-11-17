@@ -1,6 +1,7 @@
 # Vennisa Owusu-Barfi: Data Science/Machine Learning Engineer
 
 ### Highlighted Projects (Please see my GitHub Profile for more projects) ###
+GitHub Link: https://github.com/vennisabarfi 
 **1. Image Classification Model (Logistic Regression Algorithm)**
 - Led an independent project developing an image classifier using Logistic Regression, implemented with Python and scikit-learn.
 - Curated and preprocessed a dataset of 1,000 images for training and testing.

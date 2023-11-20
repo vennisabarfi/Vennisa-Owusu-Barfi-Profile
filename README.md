@@ -1,4 +1,4 @@
-# Vennisa Owusu-Barfi: Data Science/Machine Learning Engineer
+# Vennisa Owusu-Barfi: Data Science/Machine Learning 
 
 ### Highlighted Projects (Please see my GitHub Profile for more projects) ###
  [Click here to see my GitHub Profile](https://github.com/vennisabarfi )

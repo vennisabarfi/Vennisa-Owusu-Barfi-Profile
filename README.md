@@ -1,7 +1,7 @@
 # Vennisa Owusu-Barfi: Data Science/Machine Learning Engineer
 
 ### Highlighted Projects (Please see my GitHub Profile for more projects) ###
-GitHub Link: https://github.com/vennisabarfi 
+ [GitHub Link]([url](https://github.com/vennisabarfi ))
 
 **1. Image Classification Model (Logistic Regression Algorithm)**
 - Led an independent project developing an image classifier using Logistic Regression, implemented with Python and scikit-learn.
@@ -18,11 +18,24 @@ Curated and processed password data with pandas, NumPy, and NLP libraries (NLTK,
 - Implemented a user-friendly command-line interface for real-time strength analysis.
 - Documented NLP techniques, model implementation, and results for knowledge transfer.
 
-**3. Random Name and Character Generator (Python)****
+**3. Message Encryption and Decryption (Python)**
+
+- Developed a Python program for message encryption and decryption. This allowed a user to encrypt and decrypt a message using a key.
+- Utilized key Python tools and modules:
+  - `random`(specifically random.choice()) for efficient randomization of the encrypted message.
+  - `time` for for adding suspenseful pauses during user output.
+- Leveraged lists for storing encoded values and character manipulation.
+- Designed modular and reusable code by implementing functions for encryption and decryption.
+- Created a user-friendly command-line interface, enhancing customization options.
+
+**4. Random Name and Character Generator (Python)**
 - Developed a Python-based Random Name and Character Generator.
 - Leveraged Python's standard libraries for efficient randomization and string manipulation.
 - Engineered a user-friendly command-line interface for customization.
 - Extended functionality to include random character traits and attributes.
+
+
+
 
 ### Skills
 - **Tools and Languages**: Python, Git, MySQL, LATEX, ClickUp, Jira, Tableau, NumPy, TensorFlow

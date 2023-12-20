@@ -43,7 +43,7 @@ Curated and processed password data with pandas, NumPy, and NLP libraries (NLTK,
 - **Communication**: English, French, Spanish, Akan(Twi)
 
 ### Work Experience
-**Technical Project Manager** @NKENNE (August 2022 - Present)
+**Machine Learning Engineer** @NKENNE (August 2022 - Present)
 - Spearhead **project ideation and development**, leading Product, AI, and Business Teams to meet critical deadlines.
 -  Orchestrated a successful startup team effort, securing **NSF SBIR Phase 1 Funding** amounting to $275,000 boasting a remarkable 5 percent acceptance rate.
 -  Conduct market trend analysis, assimilate user feedback, and scrutinize competitor activities to propose improvements and innovations.

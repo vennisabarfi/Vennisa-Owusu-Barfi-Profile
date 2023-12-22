@@ -47,7 +47,7 @@ Curated and processed password data with pandas, NumPy, and NLP libraries (NLTK,
 - Spearheaded NLP model development, leveraging advanced feature engineering techniques for a Yoruba machine translation
   model.
 - Implemented and optimized algorithms, ensuring accuracy, scalability, and rapid deployment.
-- Documented model architectures and algorithms for seamless team collaboration.
+- Documented model architectures and algorithms for seamless team collaboration. 
   
 **Biophysics Research Intern** @Calvin University (May 2022 - Aug 2022)
 - Performed Experimental and Laboratory work on Lipids and Ion Channels.

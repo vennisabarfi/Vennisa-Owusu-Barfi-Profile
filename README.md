@@ -69,9 +69,7 @@ Bachelor of Science in Physics, Calvin University (Jan 2020 - April 2023)
 
 **Deep Learning Specialization - Coursera (2023)**
 - Neural Networks and Deep Learning
-- Structuring Machine Learning Projects
-- Convolutional Neural Networks
-- Sequence Models
+- Sequence Models (Natural Language Processing)
 
 ### Presentations and Talks
 - Presented at Gorham Savings Bank, LaunchPad Pitch Competition (50,000 USD Prize), Maine (October 2023)

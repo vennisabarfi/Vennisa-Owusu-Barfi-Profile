@@ -1,78 +1,17 @@
-# Vennisa Owusu-Barfi: Data Science/Machine Learning 
+<h1 align="center">Hi 👋, I'm Vennisa</h1>
+<h3 align="center">Passionate about Data Science, AI, and Deep Learning. Currently diving into Python and Deep Learning projects. Let's Collaborate!</h3>
 
-### Highlighted Projects (Please see my GitHub Profile for more projects) ###
- [Click here to see my GitHub Profile](https://github.com/vennisabarfi )
+- 🌱 I’m currently learning **C++ and Java**
 
-**1. Image Classification Model (Logistic Regression Algorithm)**
-- Led an independent project developing an image classifier using Logistic Regression, implemented with Python and scikit-learn.
-- Curated and preprocessed a dataset of 1,000 images for training and testing.
-- Implemented Logistic Regression, utilizing NumPy and scikit-learn, with fine-tuned hyperparameters for optimal performance.
-- Implemented a feature allowing users to input image files for dynamic model testing and evaluation.
-- Utilized Matplotlib in Jupyter Notebook for insightful visualizations, providing a comprehensive overview of model performance and data   characteristics.
+- 💬 Ask me about **python, data science/analysis, AI, ML,C++ and Java**
 
-**2. Password Strength Checker (NLP Model)**
-- Developed a Password Strength Checker using NLP and machine learning.
-Curated and processed password data with pandas, NumPy, and NLP libraries (NLTK, SpaCy).
-- Engineered features to capture semantic meaning, enhancing accuracy.
-- Used TfidfVectorizer for feature representation and a Random Forest Classifier for classification.
-- Implemented a user-friendly command-line interface for real-time strength analysis.
-- Documented NLP techniques, model implementation, and results for knowledge transfer.
+- 📫 How to reach me **vennisabarfi@gmail.com**
 
-**3. Message Encryption and Decryption (Python)**
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+</p>
 
-- Developed a Python program for message encryption and decryption. This allowed a user to encrypt and decrypt a message using a key.
-- Utilized key Python tools and modules:
-  - `random`(specifically random.choice()) for efficient randomization of the encrypted message.
-  - `time` for for adding suspenseful pauses during user output.
-- Leveraged lists for storing encoded values and character manipulation.
-- Designed modular and reusable code by implementing functions for encryption and decryption.
-- Created a user-friendly command-line interface, enhancing customization options.
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
 
-**4. Random Name and Character Generator (Python)**
-- Developed a Python-based Random Name and Character Generator.
-- Leveraged Python's standard libraries for efficient randomization and string manipulation.
-- Engineered a user-friendly command-line interface for customization.
-- Extended functionality to include random character traits and attributes.
-
-
-
-
-### Skills
-- **Tools and Languages**: Python, Git, MySQL, LATEX, Scikit Learn Tableau, NumPy, TensorFlow, PyTorch, Large Language Models
-- **Coursera Certifications**: Neural Networks and Deep Learning, Sequence Models (Natural Language Processing)
-- **Communication**: English, French, Spanish, Akan(Twi)
-
-### Work Experience
-**Machine Learning Engineer** @NKENNE (August 2022 - Present)
-- Spearheaded NLP model development, leveraging advanced feature engineering techniques for a Yoruba machine translation
-  model.
-- Implemented and optimized algorithms, ensuring accuracy, scalability, and rapid deployment.
-- Documented model architectures and algorithms for seamless team collaboration. 
-  
-**Biophysics Research Intern** @Calvin University (May 2022 - Aug 2022)
-- Performed Experimental and Laboratory work on Lipids and Ion Channels.
-- **Analyzed numerical and experimental results** from collected data using Python.
-- Presented Results at Poster Fair.
-
-**Computational Chemistry Research Intern** @ Calvin University (May 2021 - November 2021)
-- Modelled electron, molecular and atomic behavior using **ADF and GAMESS.**
-- Gained experience using Excel and Python to model complex atomic behavior.
-- Presented Results at Poster Fair.
-
-
-
-### Education 
-Bachelor of Science in Physics, Calvin University (Jan 2020 - April 2023)
-- Dean's List (All Semesters)
-- Graduated Cum Laude (3.8 GPA)
-- **Highlighted Courses: Advanced Linear Algebra, Python, Tableau**
-
-**Deep Learning Specialization - Coursera (2023)**
-- Neural Networks and Deep Learning
-- Sequence Models (Natural Language Processing)
-
-### Presentations and Talks
-- Presented at Gorham Savings Bank, LaunchPad Pitch Competition (50,000 USD Prize), Maine (October 2023)
-- Summer Research Fair, Calvin University, Grand Rapids, Michigan (September 2022)
-- Summer Research Fair, Calvin University, Grand Rapids, Michigan (September 2021)
-
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=vennisabarfi&show_icons=true&locale=en&layout=compact" alt="vennisabarfi" /></p>
